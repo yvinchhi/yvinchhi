@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yashvinchhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yvinchhi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashhvinchhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yash-h-vinchhi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://yashvinchhi.dev"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 </p>
 
@@ -13,12 +13,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** B.Tech in Computer Engineering at RK University (2023–2027)
-- 💼 **Current Focus:** Building local AI systems and developing Zhāra — a 3D AI human-like avatar
-- 🔭 **Interests:** AI/ML, 3D Avatars, Full-stack Development, Home Automation, NAS/Home Lab setups
-- 💬 **Ask me about:** C++, Python, Jetpack Compose, System Automation, AI tools, Local LLMs
-- 🌱 **Currently Learning:** Unreal Engine, Ollama, MetaHumans, Local AI integration, Bash scripting
-- 🏆 **Achievements:** Built home NAS system, custom PC builder, developed AI automation systems
+- 🎓 **Education:** B.Tech in Computer Engineering at RK University (2023–2027)  
+- 💼 **Current Focus:** Building local AI systems and developing Zhāra — a 3D AI human-like avatar  
+- 🔭 **Interests:** AI/ML, 3D Avatars, Full-stack Development, Home Automation, NAS/Home Lab setups  
+- 💬 **Ask me about:** C++, Python, Jetpack Compose, System Automation, AI tools, Local LLMs  
+- 🌱 **Currently Learning:** Unreal Engine, Ollama, MetaHumans, Local AI integration, Bash scripting  
+- 🏆 **Achievements:** Built home NAS system, custom PC builder, developed AI automation systems  
 
 ---
 
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>  
 
 **Tools & Platforms:**  
-<img src="https://img.shields.io/badge/Ollama-101010?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white"/> <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-101010?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white"/> <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 
 ---
 
@@ -63,7 +63,7 @@
 ## 🤝 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/yash-h-vinchhi/)
-- [Twitter](https://www.linkedin.com/in/yash-h-vinchhi/)
+- [Twitter](https://x.com/yashhvinchhi) <!-- Replace with your actual Twitter handle -->
 - [Portfolio](https://yashvinchhi.dev)
 - [Email](mailto:yashhvinchhi@gmail.com)
 
