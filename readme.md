@@ -50,23 +50,19 @@
 - [**Zhāra AI Avatar**](https://github.com/yvinchhi/zhara)  
   _An advanced AI-powered 3D human-like avatar system that uses LLMs, TTS, facial motion, and real-time Unreal rendering._
 
-- [**Home Automation System**](https://github.com/yvinchhi/home-automation)  
-  _Local smart system built using Home Assistant and automation scripts using Bash and Python._
-
 ---
 
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Building a 3D AI Avatar using MetaHumans + LLMs](https://yourblog.com/building-ai-avatar)
-- [How I Setup My Home NAS + Plex Server Using TrueNAS](https://yourblog.com/truenas-setup)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yash-h-vinchhi/))
+- [LinkedIn](https://www.linkedin.com/in/yash-h-vinchhi/)
 - [Twitter](https://www.linkedin.com/in/yash-h-vinchhi/)
 - [Portfolio](https://yashvinchhi.dev)
 - [Email](mailto:yashhvinchhi@gmail.com)
