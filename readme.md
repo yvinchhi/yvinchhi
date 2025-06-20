@@ -66,10 +66,10 @@
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yvinchhi/)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/yash-h-vinchhi/))
+- [Twitter](https://www.linkedin.com/in/yash-h-vinchhi/)
 - [Portfolio](https://yashvinchhi.dev)
-- [Email](mailto:yashvinchhi@gmail.com)
+- [Email](mailto:yashhvinchhi@gmail.com)
 
 ---
 
