@@ -28,7 +28,7 @@
 
 ### 👨‍💻 **About Me**
 
-I am a **Computer Engineering Student** and the **Class Representative** at **RK University**. I bridge the gap between high-performance hardware and intelligent software, specializing in **AI/ML integration**, **Mobile Development**, and **System Architecture**.
+I am a **Computer Engineering Student** at **RK University**. I bridge the gap between high-performance hardware and intelligent software, specializing in **AI/ML integration**, **Mobile Development**, and **System Architecture**.
 
 * 🏛️ **Leadership:** Head of Social Media @ **RKU E-Cell**.
 * 🔭 **Current Focus:** Developing **Markx** (Attendance Management) and **Zhāra** (3D Digital Human).
@@ -44,11 +44,11 @@ I am a **Computer Engineering Student** and the **Class Representative** at **RK
 
 | **Domain** | **Technologies** |
 |:---:|:---:|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,python,dart,kotlin,php,js" /> |
-| **App Dev** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio,jetpackcompose" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,dart,kotlin,php,js" /> |
+| **App Dev** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio" /> |
 | **Web & Backend** | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgres,firebase,html,css" /> |
 | **AI & 3D** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,unreal,threejs,blender" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,postman" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode" /> |
 
 </div>
 
