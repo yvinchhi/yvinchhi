@@ -1,77 +1,96 @@
-<h1 align="center">Hi 👋, I'm Yash Vinchhi</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Open+Source+Enthusiast;Building+Zhara+AI+Avatar+Project;Tech+Lover+%7C+Creative+Thinker" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20👋,%20I'm%20Yash%20Vinchhi&fontSize=70&fontAlign=50&fontAlignY=35&desc=Building%20the%20future%20with%20Code,%20AI,%20and%203D%20Avatars&descAlign=50&descAlignY=60&animation=fadeIn" alt="Header" />
 
-<p align="center">
-  <a href="mailto:yashhvinchhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yash-h-vinchhi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yashvinchhi.dev"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+@+RKU;Flutter+Developer+%26+UI%2FUX+Designer;Building+Markx+%26+Zhāra+AI;RAG+System+Architect;Running+Local+LLMs+on+RTX+5070" alt="Typing SVG" />
+  </a>
 
----
+  <br/>
 
-## 👨‍💻 About Me
+  <a href="mailto:yashhvinchhi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yash-h-vinchhi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://yashvinchhi.dev">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://x.com/yashhvinchhi">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 
-- 🎓 **Education:** B.Tech in Computer Engineering at RK University (2023–2027)  
-- 💼 **Current Focus:** Building local AI systems and developing Zhāra — a 3D AI human-like avatar  
-- 🔭 **Interests:** AI/ML, 3D Avatars, Full-stack Development, Home Automation, NAS/Home Lab setups  
-- 💬 **Ask me about:** C++, Python, Jetpack Compose, System Automation, AI tools, Local LLMs  
-- 🌱 **Currently Learning:** Unreal Engine, Ollama, MetaHumans, Local AI integration, Bash scripting  
-- 🏆 **Achievements:** Built home NAS system, custom PC builder, developed AI automation systems  
+</div>
 
----
-
-## 🛠️ Skills
-
-**Languages:**  
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
-**Frameworks & Libraries:**  
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=flat&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>  
-
-**Tools & Platforms:**  
-<img src="https://img.shields.io/badge/Ollama-101010?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white"/> <img src="https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<br />
 
 ---
 
-## 📈 GitHub Stats
+### 👨‍💻 **About Me**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yvinchhi&show_icons=true&theme=github_dark&hide=issues" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yvinchhi&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvinchhi&layout=compact&theme=github_dark" height="150"/>
-</p>
+I am a **Computer Engineering Student** and the **Class Representative** at **RK University**. I bridge the gap between high-performance hardware and intelligent software, specializing in **AI/ML integration**, **Mobile Development**, and **System Architecture**.
 
----
-
-## 🌟 Featured Projects
-
-- [**Zhāra AI Avatar**](https://github.com/yvinchhi/zhara)  
-  _An advanced AI-powered 3D human-like avatar system that uses LLMs, TTS, facial motion, and real-time Unreal rendering._
+* 🏛️ **Leadership:** Head of Social Media @ **RKU E-Cell**.
+* 🔭 **Current Focus:** Developing **Markx** (Attendance Management) and **Zhāra** (3D Digital Human).
+* ⚡ **The Rig:** I code and train models on a custom-built **Core Ultra 7 265k + RTX 5070** workstation.
+* 🤖 **Interests:** RAG Systems, Local LLMs (Ollama), Home Automation (Home Assistant), and Self-Hosting.
+* 🌱 **Learning:** Unreal Engine 5 Metahumans, Vector Databases (pgvector), and Next.js.
 
 ---
 
-## 📰 Latest Blog Posts
+### 🛠️ **Tech Stack & Arsenal**
 
-<!-- BLOG-POST-LIST:START -->
-- [Building a 3D AI Avatar using MetaHumans + LLMs](https://yourblog.com/building-ai-avatar)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+| **Domain** | **Technologies** |
+|:---:|:---:|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,python,dart,kotlin,php,js" /> |
+| **App Dev** | <img src="https://skillicons.dev/icons?i=flutter,androidstudio,jetpackcompose" /> |
+| **Web & Backend** | <img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgres,firebase,html,css" /> |
+| **AI & 3D** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,unreal,threejs,blender" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,vscode,postman" /> |
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+### 🚀 **Featured Projects**
 
-- [LinkedIn](https://www.linkedin.com/in/yash-h-vinchhi/)
-- [Twitter](https://x.com/yashhvinchhi) <!-- Replace with your actual Twitter handle -->
-- [Portfolio](https://yashvinchhi.dev)
-- [Email](mailto:yashhvinchhi@gmail.com)
+| Project | Description | Tech Stack |
+|:---:|:---|:---:|
+| **Markx** | A smart attendance management app for students with advanced analytics to detect patterns and manage academic criteria. | `Flutter` `Firebase` `Gemini AI` |
+| **Zhāra AI** | A 3D human-like avatar system featuring real-time lip-sync (Coqui TTS) and LLM-driven conversations. | `Python` `Unreal Engine` `Ollama` |
+| **Uni RAG System** | A Syllabus-aligned AI assistant for university students using vector search for accurate academic answers. | `FastAPI` `Next.js` `pgvector` |
+| **Brother's Arch** | A portfolio and project management portal for architectural firms with 3D model viewing capabilities. | `PHP` `jQuery` `Three.js` |
 
 ---
 
-<details>
-  <summary>📃 <b>My Resume</b></summary>
-  <p>
-    You can view or download my resume <a href="https://yashvinchhi.dev/resume.pdf">here</a>.
-  </p>
-</details>
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashVinchhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Yash's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashVinchhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=320" alt="Top Languages" height="180"/>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashVinchhi&theme=git_dark&no-frame=true&margin-w=15&column=7" />
+</div>
+
+---
+
+<div align="center">
+  
+  <details>
+    <summary>📄 <b>Download Resume</b></summary>
+    <br />
+    <a href="https://yashvinchhi.dev/resume.pdf">
+      <img src="https://img.shields.io/badge/Download_PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+    </a>
+  </details>
+
+  <br />
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+
+</div>
